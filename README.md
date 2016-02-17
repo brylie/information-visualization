@@ -71,3 +71,4 @@ See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gest
 
 # Resources
 * [Principles of Data Visualization Whitepaper](http://www.fusioncharts.com/whitepapers/downloads/Principles-of-Data-Visualization.pdf)
+* Few, Stephen. [Now You See It: Simple Visualization Techniques for Quantitative Analysis](http://www.perceptualedge.com/library.php#Books). Print. 
