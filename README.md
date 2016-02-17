@@ -95,12 +95,20 @@ The following chart types are common and generally effective.
 There are several common types of analysis involved when making visually informed decisions.
 
 * Patterns
-  * e.g. change over time 
+  * e.g. change over time
+  * cycles
+  * trend
 * Ranking
 * Part-to-whole
 * Deviation
+  * outliers
+  * variability
 * Distribution
+  * outliers
+  * percentiles
 * Correlation
+  * relationships between variables
+  * pissible indication of causal relationship
 
 # Resources
 * [Principles of Data Visualization Whitepaper](http://www.fusioncharts.com/whitepapers/downloads/Principles-of-Data-Visualization.pdf)
