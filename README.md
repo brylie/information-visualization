@@ -13,3 +13,14 @@ Make informed decision
 * Software
 * Computer graphics
 
+# Data
+* Quantity
+* History
+  * time-series
+  * data pedigree
+* Consistency
+
+## Structure
+* Variables
+* Consistency
+* Clean
