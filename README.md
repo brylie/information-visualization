@@ -7,6 +7,13 @@ Make informed decision(s)
 * Percieve - see the information
 * Understand - recognize patterns, causes, etc
 * Decide - real-world outcomes based on informed decisions
+ 
+# Mantra
+> Overview first, zoom and filter, then details-on-demand - [Ben Shneiderman](https://en.wikipedia.org/wiki/Ben_Shneiderman)
+
+* Overview
+* Zoom / filter
+* Details
 
 # Activities
 * Explore
