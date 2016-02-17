@@ -91,6 +91,17 @@ The following chart types are common and generally effective.
 * Differing variables in chart axes
 * Charts synchronize changes
 
+# Analysis
+There are several common types of analysis involved when making visually informed decisions.
+
+* Patterns
+  * e.g. change over time 
+* Ranking
+* Part-to-whole
+* Deviation
+* Distribution
+* Correlation
+
 # Resources
 * [Principles of Data Visualization Whitepaper](http://www.fusioncharts.com/whitepapers/downloads/Principles-of-Data-Visualization.pdf)
 * Few, Stephen. [Now You See It: Simple Visualization Techniques for Quantitative Analysis](http://www.perceptualedge.com/library.php#Books). Print. 
