@@ -24,3 +24,7 @@ Make informed decision(s)
 * Variables
 * Consistency
 * Clean
+
+
+# Resources
+* [Principles of Data Visualization Whitepaper](http://www.fusioncharts.com/whitepapers/downloads/Principles-of-Data-Visualization.pdf)
