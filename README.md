@@ -4,6 +4,10 @@ Presentation materials related to information visualization via interactive port
 # Goal
 Make informed decision(s)
 
+* Percieve - see the information
+* Understand - recognize patterns, causes, etc
+* Decide - real-world outcomes based on informed decisions
+
 # Activities
 * Explore
 * Communicate
