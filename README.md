@@ -42,6 +42,15 @@ Make informed decision(s)
 ## Appropriate aspects for data types
 See: [Priorities of Visual Attribute for Various Data Types](https://www.siggraph.org/education/materials/HyperVis/asp_data/overview.htm)
 
+Precise:
+* length
+* position along common axis
+ 
+Not precise
+* Width
+* Area
+* Intensity (Lightness or saturation)
+
 ## Gestalt
 See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gestalt_and_Design)
 * 
