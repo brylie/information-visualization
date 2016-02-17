@@ -2,7 +2,7 @@
 Presentation materials related to information visualization via interactive portal
 
 # Goal
-Make informed decision
+Make informed decision(s)
 
 # Activities
 * Explore
