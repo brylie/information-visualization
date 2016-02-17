@@ -70,7 +70,7 @@ See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gest
 * Sort
 * Filter
 * Combine/divide
-* Highlight/select
+* Highlight, select, brush
 * Zoom/pan - spatial and temporal
 * Annotate
 * Bookmark
