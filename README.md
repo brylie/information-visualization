@@ -57,7 +57,17 @@ Not precise
 
 ## Gestalt
 See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gestalt_and_Design)
-* 
+
+# Interactivity
+* Compare
+* Sort
+* Filter
+* Combine/divide
+* Highlight/select
+* Zoom/pan - spatial and temporal
+* Annotate
+* Bookmark
+* View details
 
 # Resources
 * [Principles of Data Visualization Whitepaper](http://www.fusioncharts.com/whitepapers/downloads/Principles-of-Data-Visualization.pdf)
