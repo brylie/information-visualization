@@ -25,6 +25,23 @@ Make informed decision(s)
 * Consistency
 * Clean
 
+## Data types
+* Number
+  * E.g. ratio
+* Category
+  * e.g. names, rank order (low, medium, high) 
+
+# Visual aspects
+* Length
+* Width
+* Position
+* Shape
+* Color
+  * e.g. HSL model
+
+## Gestalt
+See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gestalt_and_Design)
+* 
 
 # Resources
 * [Principles of Data Visualization Whitepaper](http://www.fusioncharts.com/whitepapers/downloads/Principles-of-Data-Visualization.pdf)
