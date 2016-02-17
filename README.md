@@ -1,5 +1,5 @@
-# information-visualization
-Presentation materials related to information visualization via interactive portal
+# Information Visualization
+Presentation materials related to information visualization via interactive portal design.
 
 # Goal
 Make informed decision(s)
