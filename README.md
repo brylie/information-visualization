@@ -39,6 +39,9 @@ Make informed decision(s)
 * Color
   * e.g. HSL model
 
+## Appropriate aspects for data types
+See: [Priorities of Visual Attribute for Various Data Types](https://www.siggraph.org/education/materials/HyperVis/asp_data/overview.htm)
+
 ## Gestalt
 See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gestalt_and_Design)
 * 
