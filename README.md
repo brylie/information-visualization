@@ -76,6 +76,16 @@ See also: [Gestalt design](https://en.wikipedia.org/wiki/Gestalt_psychology#Gest
 * Bookmark
 * View details
 
+# Effective charts
+The following chart types are common and generally effective.
+
+* Line
+* Scatterplot
+  * trend line 
+* Bar / histogram
+* Dot plot
+* Bubble
+
 # Multiple integrated views
 * Multiple charts
 * Differing variables in chart axes
